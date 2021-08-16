@@ -1,7 +1,7 @@
 {
   "name": "redux-essentials-example",
   "engines": {
-    "node": ">=14.15.5"
+    "node": "14.x"
   },
   "version": "1.0.0",
   "private": true,
